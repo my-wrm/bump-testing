@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.0.1 (2022-04-12)
+
+* add package.json | [bca1358](https://github.com/my-wrm/bump-testing/commit/bca135834c81b248341cad7a98f249462c38dd72)
+
+[compare](https://github.com/my-wrm/bump-testing/compare/0.0.0...0.0.1)
+
 ## 0.0.0 (2022-04-12)
 
 * Create bump-release.yml | [027c41a](https://github.com/my-wrm/bump-testing/commit/027c41a35b8a74d5df9c37bd07fe665b8c637abb)
